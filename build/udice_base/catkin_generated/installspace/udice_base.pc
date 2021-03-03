@@ -1,0 +1,8 @@
+prefix=/home/sky/catkin_ws_uD/install
+
+Name: udice_base
+Description: Description of udice_base
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

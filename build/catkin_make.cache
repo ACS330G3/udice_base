@@ -1,0 +1,2 @@
+udice_base
+-DCATKIN_DEVEL_PREFIX=/home/sky/catkin_ws_uD/devel -DCMAKE_INSTALL_PREFIX=/home/sky/catkin_ws_uD/install -G Unix Makefiles
