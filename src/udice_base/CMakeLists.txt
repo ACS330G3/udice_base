@@ -6,7 +6,7 @@ project(udice_base)
 
 ## Find catkin macros and libraries
 ## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
-## is used, also find other catkin packages // test
+## is used, also find other catkin packages // test tt
 find_package(catkin REQUIRED COMPONENTS
   roscpp
   rospy
